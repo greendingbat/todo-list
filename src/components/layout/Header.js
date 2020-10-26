@@ -6,7 +6,7 @@ function Header() {
     return (
         <header className='header'>
             <h1>Todo List</h1>
-            <Link className='headerLink' to='/'>Home</Link> | 
+            <Link className='headerLink' to='/todo-list'>Home</Link> | 
             <Link className='headerLink' to='/about'> About</Link>
         </header>
     )
