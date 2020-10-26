@@ -1,0 +1,78 @@
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Work Sans', sans-serif;
+  line-height: 1.4;
+}
+
+a {
+  color: #81B29A;
+  text-decoration: underline;
+}
+
+.app {
+    width: 50%;
+}
+
+.addTodo {
+  padding-top: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.header {
+  background: #F2CC8F;
+  color: #000000;
+  text-align: center;
+  padding: 10px;
+  border-radius: 1em;
+}
+
+.headerLink {
+  color: #000;
+  text-decoration: none;
+}
+
+.submit {
+  flex: 10;
+  padding: 5px;
+  border-radius: 1em;
+  background-color: #F4F1DE;
+}
+
+.delBtn {
+  background: #E07A5F;
+  color: #F4F1DE;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 50%;
+  cursor: pointer;
+  float: right;
+}
+
+.form {
+  display: flex;
+}
+
+.subBtn {
+  display: inline-block;
+  font-family: 'Work Sans', sans-serif;
+  background-color: #81B29A;
+  padding-left: 7px;
+  padding-right: 7px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  border-radius: 1em;
+  border: none;
+  cursor: pointer;
+  flex: 1;
+}
+
+.container {
+  padding: 0 1rem;
+}
