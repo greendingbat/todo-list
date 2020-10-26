@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/greendingbat/todo-list.git/static/css/main.c3c8508b.chunk.css",
-    "main.js": "/greendingbat/todo-list.git/static/js/main.94b198d1.chunk.js",
-    "main.js.map": "/greendingbat/todo-list.git/static/js/main.94b198d1.chunk.js.map",
-    "runtime-main.js": "/greendingbat/todo-list.git/static/js/runtime-main.7e4d87fd.js",
-    "runtime-main.js.map": "/greendingbat/todo-list.git/static/js/runtime-main.7e4d87fd.js.map",
-    "static/js/2.9e1c3955.chunk.js": "/greendingbat/todo-list.git/static/js/2.9e1c3955.chunk.js",
-    "static/js/2.9e1c3955.chunk.js.map": "/greendingbat/todo-list.git/static/js/2.9e1c3955.chunk.js.map",
-    "static/js/3.3f8e71c7.chunk.js": "/greendingbat/todo-list.git/static/js/3.3f8e71c7.chunk.js",
-    "static/js/3.3f8e71c7.chunk.js.map": "/greendingbat/todo-list.git/static/js/3.3f8e71c7.chunk.js.map",
-    "index.html": "/greendingbat/todo-list.git/index.html",
-    "static/css/main.c3c8508b.chunk.css.map": "/greendingbat/todo-list.git/static/css/main.c3c8508b.chunk.css.map",
-    "static/js/2.9e1c3955.chunk.js.LICENSE.txt": "/greendingbat/todo-list.git/static/js/2.9e1c3955.chunk.js.LICENSE.txt",
-    "static/media/MATTHEW BURNS.22756595.pdf": "/greendingbat/todo-list.git/static/media/MATTHEW BURNS.22756595.pdf"
+    "main.css": "/todo-list/static/css/main.c3c8508b.chunk.css",
+    "main.js": "/todo-list/static/js/main.94b198d1.chunk.js",
+    "main.js.map": "/todo-list/static/js/main.94b198d1.chunk.js.map",
+    "runtime-main.js": "/todo-list/static/js/runtime-main.c31ea859.js",
+    "runtime-main.js.map": "/todo-list/static/js/runtime-main.c31ea859.js.map",
+    "static/js/2.9e1c3955.chunk.js": "/todo-list/static/js/2.9e1c3955.chunk.js",
+    "static/js/2.9e1c3955.chunk.js.map": "/todo-list/static/js/2.9e1c3955.chunk.js.map",
+    "static/js/3.3f8e71c7.chunk.js": "/todo-list/static/js/3.3f8e71c7.chunk.js",
+    "static/js/3.3f8e71c7.chunk.js.map": "/todo-list/static/js/3.3f8e71c7.chunk.js.map",
+    "index.html": "/todo-list/index.html",
+    "static/css/main.c3c8508b.chunk.css.map": "/todo-list/static/css/main.c3c8508b.chunk.css.map",
+    "static/js/2.9e1c3955.chunk.js.LICENSE.txt": "/todo-list/static/js/2.9e1c3955.chunk.js.LICENSE.txt",
+    "static/media/MATTHEW BURNS.22756595.pdf": "/todo-list/static/media/MATTHEW BURNS.22756595.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.7e4d87fd.js",
+    "static/js/runtime-main.c31ea859.js",
     "static/js/2.9e1c3955.chunk.js",
     "static/css/main.c3c8508b.chunk.css",
     "static/js/main.94b198d1.chunk.js"
